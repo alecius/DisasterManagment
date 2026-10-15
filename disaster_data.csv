@@ -1,0 +1,13 @@
+magnitude,people_affected,buildings_damaged,infrastructure_damage,damage_severity,response_priority
+2.0,10,1,1,Low,Low
+3.0,30,5,2,Low,Low
+4.0,100,15,3,Medium,Medium
+4.5,150,25,4,Medium,Medium
+5.0,200,40,5,Medium,High
+5.5,300,60,6,High,High
+6.0,500,100,8,High,Urgent
+6.5,800,150,9,High,Urgent
+7.0,1200,250,10,High,Urgent
+3.5,50,8,2,Low,Low
+4.2,120,20,4,Medium,Medium
+5.8,400,80,7,High,High
